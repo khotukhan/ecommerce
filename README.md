@@ -1,4 +1,37 @@
-## Notes
+## Ecommerce Application
+The use case of this application is to serve an individual who wishes to set up their own online store. 
+
+## Website Link
+[E-commerce Application](https://calico-network.netlify.app/)
+
+## Authors: 
+#### PJ DiDonato - [Github](https://github.com/pauldidonatojr) | [Linkedin](https://www.linkedin.com/in/paul-didonato-a13726216/)
+
+## Technogies Used
+Database <br/>
+>stateless API <br/>
+
+Server <br/>
+>Node <br/>
+>Express <br/>
+
+Front End <br/>
+>React <br/>
+>Redux <br/>
+
+Authentication <br/>
+>Auth0 <br/>
+
+Middleware <br/>
+>Axios <br/>
+
+Deployment <br />
+>Netlify
+
+
+
+
+## Notes for development (hot reload) 
 
 #### Older React Version
 
