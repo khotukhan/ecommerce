@@ -4,6 +4,13 @@ The use case of this application is to serve an individual who wishes to set up 
 ## Website Link
 [E-commerce Application](https://calico-network.netlify.app/)
 
+<div>
+<img src="/gifs/soap.gif" width="250" height="250" /> 
+<img src="/gifs/eggs.gif" width="250" height="250" /> 
+<img src="/gifs/bread.gif" width="250" height="250" /> 
+</div>
+
+
 ## Authors: 
 #### PJ DiDonato - [Github](https://github.com/pauldidonatojr) | [Linkedin](https://www.linkedin.com/in/paul-didonato-a13726216/)
 
